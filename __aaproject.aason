@@ -1,0 +1,10 @@
+
+AalgolaProjectInformation(
+	“hello_aalgola”,
+	“AALGOLA”,
+	“//example.com/hello_aalgola/”,
+	“HelloAalgola”,
+	description: “”,
+	main_class: “//example.com/hello_aalgola/HelloAalgola”,
+	type: AALGOLA
+)

@@ -1,0 +1,20 @@
+namespace //example.com/hello_aalgola/
+
+⟦program⟧
+object HelloAalgola ⁌
+	Hier ist Platz für die Dokumentation für das, was das Programm macht.
+⁍ is
+
+	⟦override⟧
+	method run() → () ⁌
+		Hierhin kommt die Dokumentation der Methode.
+
+		Wenn leer, wird die Dokumentation der überschriebenen Methode genutzt.
+	 ⁍ is
+		debugWrite(“Läuft …”)
+		debugWriteLine()
+
+		…
+	end method
+
+end object
